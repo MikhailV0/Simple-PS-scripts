@@ -6,7 +6,7 @@ function DisplayMainMenu {
     Clear-Host
     Write-Host @"
 +===============================================+
-|           CLEAR CACHE FOR 1C USERS            | 
+|            ENABLE/DISABLE FIREWALL            | 
 +===============================================+
 |                                               |
 |    1) Enable firewall                         |
